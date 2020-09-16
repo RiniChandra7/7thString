@@ -1,0 +1,12 @@
+1)genre.php X
+2)song.php X
+3)review.php X
+4)index.php X
+7)artist.php
+8)user.php
+9)rini.php
+10)rohan.php
+11)news.php
+12)testimonies.php
+13)guide.php
+14)about.php
